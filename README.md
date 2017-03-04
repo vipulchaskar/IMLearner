@@ -1,6 +1,6 @@
 # README #
 
-NOTE: This is a work in progress.
+NOTE: This is a work in progress. I haven't been able to achieve a decent level of classification accuracy yet. Suggestions or contributions are welcome.
 
 A Machine Learning (supervised classification) application which learns from the training data of whatsapp chat history, and given a message from some unknown user, predicts which user must have sent that message.
 
