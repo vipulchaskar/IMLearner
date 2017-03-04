@@ -1,0 +1,12 @@
+# virtual env
+/venv
+
+# log files
+*.log
+
+# chat data files
+*.txt
+
+# python byte code files
+*.pyc
+
